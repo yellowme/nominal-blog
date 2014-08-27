@@ -26,6 +26,8 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://username.github.io
+site:
+  baseurl: /nominal-blog
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -128,5 +130,3 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-
-baseurl: /nominal-blog
